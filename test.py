@@ -1,2 +1,3 @@
-print("Hello World")
-print("Hello python coders")
+print("Hello Folks!")
+print("No Fear")
+print("Spirit to")
